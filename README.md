@@ -1,4 +1,4 @@
-# try wasm-to-oci and [krustlet](https://docs.krustlet.dev/)
+# try wasm-to-oci and [krustlet](https://github.com/krustlet/krustlet/)
 
 ## build
 When using wasm:
