@@ -36,7 +36,7 @@ docker tag -t wasm_container ghcr.io/{user_name}/{image_name}
 docker push ghcr.io/{user_name}/{image_name}
 ```
 
-## image size
-| docker (using scratch) | wasm |
-| --- | --- |
-| 4071016B (4.07MB) | 1954645B (1.9MB) |
+## data
+|  | docker (using scratch) | wasm |
+| --- | --- | --- |
+| image size | 4071016B (4.07MB) | 1954645B (1.9MB) |
